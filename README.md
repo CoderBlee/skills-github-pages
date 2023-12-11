@@ -30,8 +30,8 @@ GitHub Pages uses Jekyll. In Jekyll, we can create a blog by using specially nam
 
 ```yml
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Learn how to create PR"
+date: 2023-12-11
 ---
 ```
 
@@ -48,8 +48,8 @@ For more information about configuring front matter, see the [Jekyll frontmatter
 1. Type the following content at the top of your blog post:
    ```yaml
    ---
-   title: "YOUR-TITLE"
-   date: YYYY-MM-DD
+   title: "Learn how to creat PR"
+   date: 2023-12-11
    ---
    ```
 1. Replace `YOUR-TITLE` with the title for your blog post.
